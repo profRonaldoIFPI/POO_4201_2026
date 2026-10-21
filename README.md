@@ -141,7 +141,7 @@ Para compilar e executar os projetos disponíveis neste repositório:
 
 ---
 
-## 👨‍🏫 Docente Responsável
+## Docente Responsável
 
 - **Professor:** Ronaldo Pires Borges
 - **Instituição:** Instituto Federal do Piauí — Campus Floriano
