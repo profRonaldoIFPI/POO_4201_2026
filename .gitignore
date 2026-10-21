@@ -1,0 +1,17 @@
+# Sistema Operacional / Editor
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.history/
+
+# Arquivos temporários do VS Code
+.vscode/.project
+.vscode/.classpath
+.vscode/.factorypath
+
+# Logs
+*.log
+
+# Backups locais de processamento
+Slides das aulas/.backup_originais/
